@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zekazak
-- 👀 I’m interested in Data Analysis,Visualisation and Data Science
+- 👀 I’m interested in Data Analysis, Visualisation and Data Science
 - 🌱 I’m currently learning Python
 
 
